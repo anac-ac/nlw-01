@@ -22,9 +22,9 @@ No curso desenvolvemos um aplicatica web e mobile chamado Ecoleta, que tem o obj
 
 O projeto está sendo desenvolvido com as seguintes tecnologias:
 
-- [Node.js][https://nodejs.org/]
-- [TypeScript][https://www.typescriptlang.org/]
-- [React][https://reactjs.org]
-- [React Native][https://facebook.github.io/react-native/]
-- [Expo][https://expo.io/]
-- [Multer][https://www.npmjs.com/package/multer]
+- [Node.js](https://nodejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+- [Multer](https://www.npmjs.com/package/multer)
