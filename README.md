@@ -27,3 +27,4 @@ O projeto está sendo desenvolvido com as seguintes tecnologias:
 - [React][https://reactjs.org]
 - [React Native][https://facebook.github.io/react-native/]
 - [Expo][https://expo.io/]
+- [Multer][https://www.npmjs.com/package/multer]
